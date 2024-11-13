@@ -7,3 +7,7 @@ function sayHelloWorld() {
 function sayGoodbye() {
 	alert("Thanks for using GIT");
 }
+
+function sayTest() {
+	alert("Test");
+}
